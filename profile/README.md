@@ -1,6 +1,5 @@
 **Taller de desarrollo de Software -- Grupo F**
 # Syntax Flavor
------
 
 ## 1. User Story Map
 
@@ -10,11 +9,17 @@ https://lucid.app/lucidspark/a40db70a-3a69-45b3-9235-257e8f4f6a86/edit?viewport_
 
 ## 2. Descripción del producto
 
+SyntaxFlavor se trata de una aplicación para la gestión automática de pedidos en restaurante. Consta de una plataforma web y una móvil. En la aplicación móvil el comensal podrá registrarse con su usuario, escaneará un QR con el cuál el sistema registrará su mesa y abrirá el menú con los productos disponibles. Desde allí el cliente realizará y pagará su orden; esta será enviada inmediatamente a cocina.
+
+Desde el portal web podrán acceder cocina y administración. Cocina tendrá una cola de pedidos con las mesas asignadas, a medida que vayan asignando pedidos cocina puede despacharlos y marcarlos como completos. Por otra parte, la vista de adminsitrador podrá solicitar resúmenes de platos más solicitados, totales de ventas y otra información relevante.
+
 ## 3. Tablero Jira
+
+https://ucb-team-tdds-grupof.atlassian.net/jira/software/projects/SCRUM/boards/1
 
 ## 4. Diagrama de la arquitectura
 
-![Arquitectura y herramientas a utilizar](image.png)
+![Arquitectura y herramientas a utilizar](image-1.png)
 
 ## 5. Repositorios
 
