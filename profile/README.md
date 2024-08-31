@@ -3,11 +3,11 @@
 
 **Equipo:**
 
-Oscar Campohermoso - oscar.campohermoso@ucb.edu.bo
-Miguel Carrasco - miguel.carrasco@ucb.edu.bo
-Fabiola Martínez - fabiola.martinez@ucb.edu.bo
-Diana Montero - diana.montero.g@ucb.edu.bo
-Gabriela Zizold - gabriela.zizold@ucb.edu.bo
+- Oscar Campohermoso - oscar.campohermoso@ucb.edu.bo
+- Miguel Carrasco - miguel.carrasco@ucb.edu.bo
+- Fabiola Martínez - fabiola.martinez@ucb.edu.bo
+- Diana Montero - diana.montero.g@ucb.edu.bo
+- Gabriela Zizold - gabriela.zizold@ucb.edu.bo
 
 ## 1. User Story Map
 
