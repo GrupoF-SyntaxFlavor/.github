@@ -36,3 +36,8 @@ https://ucb-team-tdds-grupof.atlassian.net/jira/software/projects/SCRUM/boards/1
 2. Frontend Web: https://github.com/GrupoF-SyntaxFlavor/SyntaxFlavor_FrontendWeb
 
 3. Frontend Mobile:  https://github.com/GrupoF-SyntaxFlavor/SyntaxFlavor_FrontendMobile
+
+## 6. Diagramas Relevantes
+
+1. Entidad-Relación: https://my.vertabelo.com/model/gEzzW8PRr2IFnrxRZoPFrKztmwJEBSUw
+2. Mockups: https://balsamiq.cloud/slo1qxs/pa8sj31/r2278
